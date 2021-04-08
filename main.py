@@ -4,14 +4,14 @@ import os
 all_characters = {  # TODO
     "LE DOCTEUR STOCKMANN",
     "MADAME STOCKMANN",
-    # "PETRA",
-    # "EILIF",
-    # "MORTEN",
+    "PETRA",
+    "EILIF",
+    "MORTEN",
     "LE BOURGMESTRE",
     # "MORTEN KILL",
     "HOVSTAD",
     "MADAME BILLING",
-    # "HORSTER",
+    "HORSTER",
     # "ASLAKSEN",
     "Didascalie",
 
@@ -77,7 +77,25 @@ def check_scene(scene_file_name):
 
 def main():
     scenes = [
-        "acte_1_part_1"
+        "acte_1_part_1",
+        "acte_1_part_2",
+        "acte_1_part_3",
+        "acte_1_part_4",
+        "acte_2_part_1",
+        "acte_2_part_2",
+        "acte_2_part_3",
+        "acte_2_part_4",
+        "acte_2_part_5",
+        "acte_3_part_1",
+        "acte_3_part_2",
+        "acte_4_part_1",
+        "acte_4_part_2",
+        "acte_4_part_3",
+        "acte_5_part_1",
+        "acte_5_part_2",
+        "acte_5_part_3",
+        "acte_5_part_4",
+        "acte_5_part_5",
     ]
     scene_file_names = [
         f"{scene}.txt"

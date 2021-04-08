@@ -10,14 +10,14 @@ raw_transcriptions = {
 characters = [  # TODO
     "LE DOCTEUR STOCKMANN",
     "MADAME STOCKMANN",
-    # "PETRA",
-    # "EILIF",
-    # "MORTEN",
+    "PETRA",
+    "EILIF",
+    "MORTEN",
     "LE BOURGMESTRE",
     # "MORTEN KILL",
     "HOVSTAD",
     "MADAME BILLING",
-    # "HORSTER",
+    "HORSTER",
     # "ASLAKSEN",
 
     "MADAME HOVSTAD"  # TODO delete this
@@ -25,17 +25,16 @@ characters = [  # TODO
 
 didascalie_str = "Didascalie"
 
-scene_ids = [  # TODO
-    "acte_1_part_1",
-    "acte_1_part_2",
-    "acte_2_part_1",
-]
+n_actes = 5
+n_parts = [4, 5, 2, 3, 5]
 
-scene_pretty_names = {  # TODO
-    "acte_1_part_1": "Acte 1 - Partie 1",
-    "acte_1_part_2": "Acte 1 - Partie 2",
-    "acte_2_part_1": "Acte 2 - Partie 1"
-}
+scene_ids = []
+scene_pretty_names = {}
+for i_acte in range(1, n_actes+1):
+    for i_part in range(1, n_parts[i_acte-1]+1):
+        scene_id = f"acte_{i_acte}_part_{i_part}"
+        scene_ids.append(scene_id)
+        scene_pretty_names[scene_id] = f"Acte {i_acte} - Partie {i_part}"
 
 
 def deepcopy(e):
@@ -125,7 +124,7 @@ class SelectionScreen:
 
     def create_root(self):
         root = html.DIV()
-        root <= html.DIV(html.B(f"Replicator ({version})")) + html.BR()
+        root <= html.DIV(html.B(f"Replicator - Un Ennemi du peuple ({version})")) + html.BR()
         table = html.TABLE()
         table <= html.TR(html.TD("1. Sélectionner le personnage", Id="char_sel_panel_title")
                         + html.TD("2. Sélectionner la scène", Id="scene_sel_panel_title"))
