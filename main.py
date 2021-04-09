@@ -32,12 +32,13 @@ def check_scene(scene_file_name):
             new_character = True
         elif file_line[0] != "#":
             if new_character:
-                theatrical_lines.append({"character": file_line, "lines": []})
+                line_characters = file_line.split(" & ")
+                theatrical_lines.append({"characters": line_characters, "lines": []})
                 new_character = False
             else:
                 theatrical_lines[-1]["lines"].append(file_line)
 
-    characters = set([plop["character"] for plop in theatrical_lines])
+    characters = set.union(*[set(plop["characters"]) for plop in theatrical_lines])
 
     print(f"Characters : {characters}")
 
@@ -77,25 +78,25 @@ def check_scene(scene_file_name):
 
 def main():
     scenes = [
-        "acte_1_part_1",
-        "acte_1_part_2",
-        "acte_1_part_3",
+        # "acte_1_part_1",
+        # "acte_1_part_2",
+        # "acte_1_part_3",
         "acte_1_part_4",
-        "acte_2_part_1",
-        "acte_2_part_2",
-        "acte_2_part_3",
-        "acte_2_part_4",
-        "acte_2_part_5",
-        "acte_3_part_1",
-        "acte_3_part_2",
-        "acte_4_part_1",
-        "acte_4_part_2",
-        "acte_4_part_3",
-        "acte_5_part_1",
-        "acte_5_part_2",
-        "acte_5_part_3",
-        "acte_5_part_4",
-        "acte_5_part_5",
+        # "acte_2_part_1",
+        # "acte_2_part_2",
+        # "acte_2_part_3",
+        # "acte_2_part_4",
+        # "acte_2_part_5",
+        # "acte_3_part_1",
+        # "acte_3_part_2",
+        # "acte_4_part_1",
+        # "acte_4_part_2",
+        # "acte_4_part_3",
+        # "acte_5_part_1",
+        # "acte_5_part_2",
+        # "acte_5_part_3",
+        # "acte_5_part_4",
+        # "acte_5_part_5",
     ]
     scene_file_names = [
         f"{scene}.txt"

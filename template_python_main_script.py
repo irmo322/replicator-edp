@@ -263,8 +263,9 @@ class App:
                     new_character = True
                 elif file_line[0] != "#":
                     if new_character:
-                        blocs.append({"character": file_line, "lines": []})
-                        scene_characters.add(file_line)
+                        line_characters = file_line.split(" & ")
+                        blocs.append({"characters": line_characters, "lines": []})
+                        scene_characters = scene_characters.union(line_characters)
                         new_character = False
                     else:
                         blocs[-1]["lines"].append(file_line)
@@ -290,7 +291,7 @@ class App:
 
                 self.selected_bloc_lines = [(bloc_index, line_index)
                                             for bloc_index, bloc in enumerate(self.selected_blocs)
-                                            if bloc["character"] == self.selected_character
+                                            if self.selected_character in bloc["characters"]
                                             for line_index in range(len(bloc["lines"]))]
 
                 self.base_evaluation_introduction()
@@ -345,13 +346,14 @@ class App:
             end = raw_line.find(')')
             div = html.DIV(Class=f"bloc_line_back_{back_count}")
             div <= html.EM(raw_line[:end+1]) + html.SPAN(raw_line[end+1:])
-            character = self.selected_blocs[bloc_index]["character"]
-            if character == didascalie_str:
+            bloc_characters = self.selected_blocs[bloc_index]["characters"]
+            if didascalie_str in bloc_characters:
                 div.classList.add("didascalie")
             text.insert(0, div)
             if line_index == 0 or back_count == self.HISTORY_LENGTH - 1:
-                if character != didascalie_str:
-                    text.insert(0, html.DIV(character, Class="character_in_text"))
+                if didascalie_str not in bloc_characters:
+                    characters_text = " & ".join(bloc_characters)
+                    text.insert(0, html.DIV(characters_text, Class="character_in_text"))
                 text.insert(0, html.BR())
             if line_index > 0:
                 line_index -= 1
