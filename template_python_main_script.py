@@ -27,7 +27,7 @@ characters = [  # TODO
 didascalie_str = "Didascalie"
 
 n_actes = 5
-n_parts = [4, 5, 2, 3, 5]
+n_parts = [4, 5, 4, 3, 5]
 
 scene_ids = []
 scene_pretty_names = {}
