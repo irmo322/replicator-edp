@@ -8,14 +8,15 @@ all_characters = {  # TODO
     "EILIF",
     "MORTEN",
     "LE BOURGMESTRE",
-    # "MORTEN KILL",
+    "MORTEN KILL",
     "HOVSTAD",
     "MADAME BILLING",
     "HORSTER",
-    # "ASLAKSEN",
+    "ASLAKSEN",
     "Didascalie",
 
-    "MADAME HOVSTAD"  # TODO delete this
+    "MADAME HOVSTAD",  # TODO delete this
+    "LE MAIRE",
 }
 
 
@@ -81,12 +82,12 @@ def main():
         # "acte_1_part_1",
         # "acte_1_part_2",
         # "acte_1_part_3",
-        "acte_1_part_4",
+        # "acte_1_part_4",
         # "acte_2_part_1",
         # "acte_2_part_2",
         # "acte_2_part_3",
         # "acte_2_part_4",
-        # "acte_2_part_5",
+        "acte_2_part_5",
         # "acte_3_part_1",
         # "acte_3_part_2",
         # "acte_4_part_1",

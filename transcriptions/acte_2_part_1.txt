@@ -1,114 +1,184 @@
- # À tout endroit du texte, une ligne faisant office de commentaire peut être
+# À tout endroit du texte, une ligne faisant office de commentaire peut être
 # ajoutée en la commençant par #.
 # Ceci est la transcription de l’acte 2 partie 1.
 
 Didascalie
 Acte 2 partie 1.
 
-MADAME STOCKMANN. - Tu es là, Thomas ? Une lettre de ton frère.
+MADAME STOCKMANN
+- Tu es là, Thomas ? Une lettre de ton frère.
 
-LE DOCTEUR STOCKMANN. - Ah ! très bien ! Voyons ce qu'il m'écrit.  «Ci-inclus le manuscrit dont j'ai reçu communication ... »  Hem—-
+LE DOCTEUR STOCKMANN
+- Ah ! très bien ! Voyons ce qu'il m'écrit.
+«Ci-inclus le manuscrit dont j'ai reçu communication ... »  Hem—-
 
-MADAME STOCKMANN. - Alors?
+MADAME STOCKMANN
+- Alors?
 
-LE DOCTEUR STOCKMANN. - Rien. Il me dit qu'il passera ici vers midi.
+LE DOCTEUR STOCKMANN
+- Rien. Il me dit qu'il passera ici vers midi.
 
-MADAME STOCKMANN. - Pense à rentrer à à temps .
+MADAME STOCKMANN
+- Pense à rentrer à temps .
 
-LE DOCTEUR STOCKMANN. - Je n'ai pas besoin de sortir. Mes visites sont faites.
+LE DOCTEUR STOCKMANN
+- Je n'ai pas besoin de sortir. Mes visites sont faites.
 
-MADAME STOCKMANN. - Je suis impatiente de savoir comment il a pris la chose.
+MADAME STOCKMANN
+- Je suis impatiente de savoir comment il a pris la chose.
 
-LE DOCTEUR STOCKMANN. - Il sera un peu vexé que ce soit moi, et pas lui, qui a fait la découverte.
+LE DOCTEUR STOCKMANN
+- Il sera un peu vexé que ce soit moi, et pas lui, qui a fait la découverte.
 
-MADAME STOCKMANN. -  Justement. Cela ne t'inquiète pas ?
+MADAME STOCKMANN
+-  Justement. Cela ne t'inquiète pas ?
 
-LE DOCTEUR STOCKMANN. - J’imagine qu’il sera content au fond. Mais, tu sais comme il est, vaniteux, susceptible. Il refuse qu’un autre que lui rende service à la communauté.
+LE DOCTEUR STOCKMANN
+- J’imagine qu’il sera content au fond.
+Mais, tu sais comme il est, vaniteux, susceptible.
+Il refuse qu’un autre que lui rende service à la communauté.
 
-MADAME STOCKMANN. - En ce cas, tu devrais partager avec lui l'honneur de la découverte, non? Peut-être même faire croire que c'est lui qui t'a mis sur la piste—-
+MADAME STOCKMANN
+- En ce cas, tu devrais partager avec lui l'honneur de la découverte, non?
+Peut-être même faire croire que c'est lui qui t'a mis sur la piste—-
 
-LE DOCTEUR STOCKMANN. - Pourquoi pas? Je ne demande pas mieux. L’important est que je puisse remédier à la situation, je—-
+LE DOCTEUR STOCKMANN
+- Pourquoi pas? Je ne demande pas mieux.
+L’important est que je puisse remédier à la situation, je—-
 
-MORTEN KILL. - Dites donc, c'est vrai?
+MORTEN KILL
+- Dites donc, c'est vrai?
 
-MADAME STOCKMANN. - Tiens, c'est toi ?
+MADAME STOCKMANN
+- Tiens, c'est toi ?
 
-LE DOCTEUR STOCKMANN. - Eh ! bien le bonjour, beau-père !
+LE DOCTEUR STOCKMANN
+- Eh ! bien le bonjour, beau-père !
 
-MADAME STOCKMANN. - Mais entre donc.
+MADAME STOCKMANN
+- Mais entre donc.
 
-MORTEN KILL. - Si c'est vrai, j'entre, sinon, je m'en vais.
+MORTEN KILL
+- Si c'est vrai, j'entre, sinon, je m'en vais.
 
-LE DOCTEUR STOCKMANN. - Si c'est vrai quoi? De quoi s'agit-il?
+LE DOCTEUR STOCKMANN
+- Si c'est vrai quoi? De quoi s'agit-il?
 
-MORTEN KILL. - Mais de cette affaire d'eaux. C’est vraiment vrai, cette histoire ?
+MORTEN KILL
+- Mais de cette affaire d'eaux. C’est vraiment vrai, cette histoire ?
 
-LE DOCTEUR STOCKMANN. - C’est la vérité. Qui vous a mis au courant?
+LE DOCTEUR STOCKMANN
+- C’est la vérité. Qui vous a mis au courant?
 
-MORTEN KILL. - Petra. Avant d'aller à l’école. Elle est passée rapidement—-
+MORTEN KILL
+- Petra. Avant d'aller à l’école. Elle est passée rapidement—-
 
-LE DOCTEUR STOCKMANN. - Vraiment? Petra ?
+LE DOCTEUR STOCKMANN
+- Vraiment? Petra ?
 
-MORTEN KILL. - Eh oui ! Petra est venue me dire —-D’abord j'ai pensé qu'elle se moquait de moi. Mais cela ne lui ressemble guère.
+MORTEN KILL
+- Eh oui ! Petra est venue me dire —-D’abord j'ai pensé qu'elle se moquait de moi.
+Mais cela ne lui ressemble guère.
 
-LE DOCTEUR STOCKMANN. - Allons, comment avez-vous pu croire que Petra—-
+LE DOCTEUR STOCKMANN
+- Allons, comment avez-vous pu croire que Petra—-
 
-MORTEN KILL. - Moi, je ne me fie à personne. C’est très facile de se moquer des gens—- Donc, c'est  vrai ?
+MORTEN KILL
+- Moi, je ne me fie à personne. C’est très facile de se moquer des gens—
+- Donc, c'est  vrai ?
 
-LE DOCTEUR STOCKMANN. - Asseyez-vous, nous allons en parler. C'est une vraie chance pour la  ville, nous sommes d’accord ?
+LE DOCTEUR STOCKMANN
+- Asseyez-vous, nous allons en parler.
+C'est une vraie chance pour la  ville, nous sommes d’accord ?
 
-MORTEN KILL. - Une chance pour la ville ?
+MORTEN KILL
+- Une chance pour la ville ?
 
-LE DOCTEUR STOCKMANN. - Oui, une chance que j'aie découvert la chose à temps.
+LE DOCTEUR STOCKMANN
+- Oui, une chance que j'aie découvert la chose à temps.
 
-MORTEN KILL. - Oui, oui, oui. Jamais, je ne vous aurais cru capable de jouer des tours pareils à votre propre frère.
+MORTEN KILL
+- Oui, oui, oui.
+Jamais, je ne vous aurais cru capable de jouer des tours pareils à votre propre frère.
 
-LE DOCTEUR STOCKMANN. - Des tours ?
+LE DOCTEUR STOCKMANN
+- Des tours ?
 
-MADAME STOCKMANN. - Mais enfin, tu imagines que —-
+MADAME STOCKMANN
+- Mais enfin, tu imagines que —-
 
-MORTEN KILL. - Il y a donc une bête qui est entrée dans les conduites d’eau, c’est ça?
+MORTEN KILL
+- Il y a donc une bête qui est entrée dans les conduites d’eau, c’est ça?
 
-LE DOCTEUR STOCKMANN. - Une bactérie très précisément.
+LE DOCTEUR STOCKMANN
+- Une bactérie très précisément.
 
-MORTEN KILL . - Petra m'a même dit qu'il en serait entré beaucoup, de ces bêtes. Toute une masse.
+MORTEN KILL
+- Petra m'a même dit qu'il en serait entré beaucoup, de ces bêtes. Toute une masse.
 
-LE DOCTEUR STOCKMANN. - Parfaitement. Des centaines de mille—-
+LE DOCTEUR STOCKMANN
+- Parfaitement. Des centaines de mille—-
 
-MORTEN KILL. - Que personne ne peut voir. C’est ça?
+MORTEN KILL
+- Que personne ne peut voir. C’est ça?
 
-LE DOCTEUR STOCKMANN. - On ne peut pas les voir. C'est exact.
+LE DOCTEUR STOCKMANN
+- On ne peut pas les voir. C'est exact.
 
-MORTEN KILL. - Nom de dieu, ça c’est la meilleure !
+MORTEN KILL
+- Nom de dieu, ça c’est la meilleure !
 
-LE DOCTEUR STOCKMANN. - Que voulez-vous dire ?
+LE DOCTEUR STOCKMANN
+- Que voulez-vous dire ?
 
-MORTEN KILL. - Jamais le bourgmestre ne va gober ça.
+MORTEN KILL
+- Jamais le bourgmestre ne va gober ça.
 
-LE DOCTEUR STOCKMANN. - C'est ce que nous verrons.
+LE DOCTEUR STOCKMANN
+- C'est ce que nous verrons.
 
-MORTEN KILL. -  Il serait assez timbré pour y croire ?
+MORTEN KILL
+-  Il serait assez timbré pour y croire ?
 
-LE DOCTEUR STOCKMANN. - J’espère que  la ville entière sera assez timbrée - comme vous dites- pour y croire.
+LE DOCTEUR STOCKMANN
+- J’espère que  la ville entière sera assez timbrée - comme vous dites- pour y croire.
 
-MORTEN KILL. - Oui, possible. Ils auront ce qu’ils méritent. Ah ! ils font les malins. Ils veulent nous dresser, nous les vieux. Ne m'ont-ils pas chassé du conseil comme un chien. Crapuleusement—- Ils vont le payer cher. Continuez, Stockmann, continuez à leur jouer vos tours.
+MORTEN KILL
+- Oui, possible. Ils auront ce qu’ils méritent.
+Ah ! ils font les malins. Ils veulent nous dresser, nous les vieux.
+Ne m'ont-ils pas chassé du conseil comme un chien. Crapuleusement—
+- Ils vont le payer cher. Continuez, Stockmann, continuez à leur jouer vos tours.
 
-LE DOCTEUR STOCKMANN. - Mais puisque je vous dis—-
+LE DOCTEUR STOCKMANN
+- Mais puisque je vous dis—-
 
-MORTEN KILL. - Continuez vos tours, vous dis-je. Si vous arrivez à les faire tous tomber dans le panneau, le Bourgmestre et sa clique, j’offrirai sur l'heure cent couronnes pour les pauvres.
+MORTEN KILL
+- Continuez vos tours, vous dis-je.
+Si vous arrivez à les faire tous tomber dans le panneau, le Bourgmestre et sa clique,
+j’offrirai sur l'heure cent couronnes pour les pauvres.
 
-LE DOCTEUR STOCKMANN. - Quelle générosité!
+LE DOCTEUR STOCKMANN
+- Quelle générosité!
 
-MORTEN KILL. - Ce n'est pas que je roule sur l’or, vous le savez. Mais si vous y arrivez, j'offre à Noël une cinquantaine de couronnes pour les pauvres.
+MORTEN KILL
+- Ce n'est pas que je roule sur l’or, vous le savez.
+Mais si vous y arrivez, j'offre à Noël une cinquantaine de couronnes pour les pauvres.
 
-HOVSTAD. - Bonjour. Oh, excusez-moi.
+HOVSTAD
+- Bonjour. Oh, excusez-moi.
 
-LE DOCTEUR STOCKMANN. - Non, entrez, entrez.
+LE DOCTEUR STOCKMANN
+- Non, entrez, entrez.
 
-MORTEN KILL. - Lui ! Il fait partie du plan?
+MORTEN KILL
+- Lui ! Il fait partie du plan?
 
-HOVSTAD. - Que voulez-vous dire ?
+HOVSTAD
+- Que voulez-vous dire ?
 
-LE DOCTEUR STOCKMANN. - Eh oui ! il va nous aider.
+LE DOCTEUR STOCKMANN
+- Eh oui ! il va nous aider.
 
-MORTEN KILL. - J'aurais dû m'en douter! Stockmann, félicitations, on peut dire que vous savez y faire—- Il faut que les journaux en parlent, c’est parfait! Et maintenant, je file. Soignez la farce!
+MORTEN KILL
+- J'aurais dû m'en douter! Stockmann, félicitations, on peut dire que vous savez y faire—
+- Il faut que les journaux en parlent, c’est parfait! Et maintenant, je file. Soignez la farce!

@@ -14,13 +14,14 @@ characters = [  # TODO
     "EILIF",
     "MORTEN",
     "LE BOURGMESTRE",
-    # "MORTEN KILL",
+    "MORTEN KILL",
     "HOVSTAD",
     "MADAME BILLING",
     "HORSTER",
-    # "ASLAKSEN",
+    "ASLAKSEN",
 
-    "MADAME HOVSTAD"  # TODO delete this
+    "MADAME HOVSTAD",  # TODO delete this
+    "LE MAIRE",
 ]
 
 didascalie_str = "Didascalie"
@@ -414,14 +415,14 @@ class App:
 
     def random_focus(self, progress, last_bloc_line_index):
         progress += 1
-        if progress == 2 * len(self.selected_bloc_lines):
+        if progress > 2 * len(self.selected_bloc_lines):
             self.show_final_evaluation_message()
         else:
             print("choosing random bloc line")
             print(self.total_line_scores)
-            # choose bloc line. Lexicographic order. Don't choose last bloc/line
+            # choose bloc line. Lexicographic order. Don't choose last bloc/line (except if only one)
             worst_score_number = 1000000000
-            worst_indexes = []
+            worst_indexes = [last_bloc_line_index]
             for bloc_line_index, (bloc, line) in enumerate(self.selected_bloc_lines):
                 if bloc_line_index == last_bloc_line_index:
                     continue
