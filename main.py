@@ -1,7 +1,7 @@
 import os
 
 
-all_characters = {  # TODO
+all_characters = {
     "LE DOCTEUR STOCKMANN",
     "MADAME STOCKMANN",
     "PETRA",
@@ -14,9 +14,6 @@ all_characters = {  # TODO
     "HORSTER",
     "ASLAKSEN",
     "Didascalie",
-
-    "MADAME HOVSTAD",  # TODO delete this
-    "LE MAIRE",
 }
 
 
@@ -79,18 +76,18 @@ def check_scene(scene_file_name):
 
 def main():
     scenes = [
-        # "acte_1_part_1",
-        # "acte_1_part_2",
-        # "acte_1_part_3",
-        # "acte_1_part_4",
-        # "acte_2_part_1",
-        # "acte_2_part_2",
-        # "acte_2_part_3",
-        # "acte_2_part_4",
-        # "acte_2_part_5",
-        # "acte_3_part_1",
-        # "acte_3_part_2",
-        # "acte_3_part_3",
+        "acte_1_part_1",
+        "acte_1_part_2",
+        "acte_1_part_3",
+        "acte_1_part_4",
+        "acte_2_part_1",
+        "acte_2_part_2",
+        "acte_2_part_3",
+        "acte_2_part_4",
+        "acte_2_part_5",
+        "acte_3_part_1",
+        "acte_3_part_2",
+        "acte_3_part_3",
         "acte_3_part_4",
         # "acte_4_part_1",
         # "acte_4_part_2",

@@ -1,7 +1,7 @@
 import os
 
 
-all_characters = {  # TODO
+all_characters = {
     "LE DOCTEUR STOCKMANN",
     "MADAME STOCKMANN",
     "PETRA",
@@ -14,9 +14,6 @@ all_characters = {  # TODO
     "HORSTER",
     "ASLAKSEN",
     "Didascalie",
-
-    "MADAME HOVSTAD",  # TODO delete this
-    "LE MAIRE",
 }
 
 

@@ -7,7 +7,7 @@ raw_transcriptions = {
 ##RAW_TRANSCRIPTIONS##
 }
 
-characters = [  # TODO
+characters = [
     "LE DOCTEUR STOCKMANN",
     "MADAME STOCKMANN",
     "PETRA",
@@ -19,9 +19,6 @@ characters = [  # TODO
     "MADAME BILLING",
     "HORSTER",
     "ASLAKSEN",
-
-    "MADAME HOVSTAD",  # TODO delete this
-    "LE MAIRE",
 ]
 
 didascalie_str = "Didascalie"
