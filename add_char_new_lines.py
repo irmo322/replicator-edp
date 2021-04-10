@@ -48,12 +48,12 @@ def main():
         # "acte_3_part_4",
         # "acte_4_part_1",
         # "acte_4_part_2",
-        "acte_4_part_3",
+        # "acte_4_part_3",
         # "acte_5_part_1",
         # "acte_5_part_2",
         # "acte_5_part_3",
         # "acte_5_part_4",
-        # "acte_5_part_5",
+        "acte_5_part_5",
     ]
     scene_file_names = [
         f"{scene}.txt"
